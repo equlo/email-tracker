@@ -58,6 +58,7 @@ Thank you.
 
 Regards,  
 Ankit
+
 🧪 Demo Output
 
 When email is opened:
